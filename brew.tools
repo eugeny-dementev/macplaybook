@@ -1,0 +1,11 @@
+neovim
+wget curl
+git
+zsh
+riggrep
+tree
+lua
+python
+htop
+nvm # sylinks in /usr/local/bin/{node,npm}
+
