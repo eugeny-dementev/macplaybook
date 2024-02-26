@@ -6,6 +6,11 @@ riggrep
 tree
 lua
 python
+fzf
+fd
+yarn
+pgcli
+mycli
 htop
 nvm # sylinks in /usr/local/bin/{node,npm}
 
